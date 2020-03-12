@@ -17,6 +17,7 @@
     "signature",
     "tex-mining"
   ],
+  "types": "index.d.ts",
   "author": "Dekel Cohen",
   "license": "ISC",
   "dependencies": {
